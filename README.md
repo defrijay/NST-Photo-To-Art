@@ -54,7 +54,7 @@ This approach uses multi-scale convolution to capture style information at diffe
 
 ### Installation Instructions
 1. Clone the repository:  
-   `git clone https://github.com/your-username/neural-style-transfer.git`
+   `git clonehttps://github.com/defrijay/NST-Photo-To-Art.git`
 2. Install dependencies:  
    `pip install -r requirements.txt`
 
